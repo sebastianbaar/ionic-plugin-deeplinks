@@ -1,14 +1,14 @@
 {
-  "name": "ionic-plugin-deeplinks",
-  "version": "1.0.15",
+  "name": "ionic-plugin-deeplinks-cc",
+  "version": "1.1.0",
   "cordova": {
-    "id": "ionic-plugin-deeplinks",
+    "id": "ionic-plugin-deeplinks-cc",
     "platforms": [
       "android",
       "ios"
     ]
   },
-  "description": "Ionic Deeplinks Plugin",
+  "description": "Ionic Deeplinks Plugin CC",
   "repository": "https://github.com/ionic-team/ionic-plugin-deeplinks.git",
   "issue": "https://github.com/ionic-team/ionic-plugin-deeplinks/issues",
   "keywords": [
@@ -28,6 +28,6 @@
     "node-version-compare": ">=1.0.1",
     "plist": ">=1.2.0"
   },
-  "author": "Max Lynch <max@ionic.io>",
+  "author": "Sebastian Baar <mail.sebastianbaar@gmail.com>",
   "license": "MIT"
 }
